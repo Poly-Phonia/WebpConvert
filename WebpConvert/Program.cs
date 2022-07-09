@@ -103,6 +103,8 @@ namespace WebpConvert
                 }
             }
 
+            Console.WriteLine(string.Empty);
+            Console.WriteLine(string.Empty);
             Console.WriteLine("Done.");
             Console.ReadLine();
             return;
